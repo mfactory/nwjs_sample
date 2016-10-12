@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "main": "index.html",
+  "window": {
+    "transparent": true,
+    "frame": false,
+    "always-on-top": true
+  }
+}
